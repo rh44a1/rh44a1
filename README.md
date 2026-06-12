@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Rhea!
 
 <!--
 **rh44a1/rh44a1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![scVelo](https://img.shields.io/badge/scVelo-3F51B5?style=for-the-badge&logo=python&logoColor=white)
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Tesseract OCR](https://img.shields.io/badge/Tesseract%20OCR-4285F4?style=for-the-badge&logo=google&logoColor=white)
